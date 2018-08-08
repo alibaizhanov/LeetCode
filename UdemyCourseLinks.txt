@@ -1,1 +1,29 @@
 http://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/
+
+For job
+
+List of Job Boards and Sites
+Раздел 6, лекция 18
+Links for Job Search Sites
+
+https://angel.co/jobs
+
+http://www.simplyhired.com/
+
+https://www.glassdoor.com/Job/index.htm
+
+https://www.linkedin.com/job/
+
+http://www.indeed.com/
+
+http://www.monster.com/
+
+http://www.dice.com/
+
+http://careers.stackoverflow.com/
+
+https://androidjobs.io/
+
+For internships:
+
+https://www.looksharp.com/
