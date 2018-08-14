@@ -1,4 +1,5 @@
 g = [4,45,6,9,1,3,7,8,21,19,20,21,86,5]
+##Quick sort with time complexity O(n**2)
 print(g[1::])
 
 def quickSort(arr):
